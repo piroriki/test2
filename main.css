@@ -3,6 +3,11 @@ h3{margin-bottom: 50px;
    font-weight: 700;
 }
 
+#colon,#colon2,#colon3{font-size: 15px;
+                       margin-left: 6px;
+                       margin-right: 6px;
+}
+
 #timer {font-size: 30px;
        font-weight: 700;
        margin-bottom: 50px;
